@@ -87,6 +87,7 @@ span {
     padding-right: 80px;
     font-size: 11pt;
     margin-right: 35px;
+    box-shadow: 0px 10px 40px -12px #00ff8052;
 }
 
 #text {
@@ -98,6 +99,7 @@ span {
     padding-left: 50px;
     padding-right: 50px;
     font-size: 11pt;
+    box-shadow: 0px 10px 40px -12px #00ff8052;
 }
 
 .center .bottom #port:hover {
@@ -109,6 +111,7 @@ span {
     text-decoration: none;
     color: #3FE3A3;
     background: #1B1B1B;
+    box-shadow: 0px 10px 40px -12px #06331c52;
 }
 
 .menu {
