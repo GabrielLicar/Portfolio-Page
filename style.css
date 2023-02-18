@@ -17,6 +17,10 @@ nav {
     justify-content: space-between;
 }
 
+span {
+    color: #3FE3A3;
+}
+
 #menu {
     margin-right: 20px;
     margin-top: 20px;
